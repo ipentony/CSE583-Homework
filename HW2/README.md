@@ -1,0 +1,1 @@
+To do this homework, I just worked through the sequences in the order they were listed in the instructions, one level at a time. Some of the levels required more trial and error than others for me, but I did not use any outside resources, online or AI, to complete them. I just used the "help" documentation built into the website when I needed a refresher on the commands. 
